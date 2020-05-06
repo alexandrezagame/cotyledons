@@ -1,0 +1,24 @@
+.banner {
+	width: 100vw;
+	height: 100vh;
+	background-color: #0b6e4f;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.logo-image {
+
+    width: 300px;
+    height: auto;
+}
+
+.banner h3 {
+	padding-top: 40px;
+	font-size: 24px;
+	color: white;
+	font-family: 'Libre Baskerville', serif;
+	font-weight: 400;
+}
